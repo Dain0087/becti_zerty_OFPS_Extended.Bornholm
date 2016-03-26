@@ -18,4 +18,4 @@ This project is not affiliated or authorized by Bohemia Interactive a.s. Bohemia
 - *Sari* for updating the sanitize scripts
 - *John681611* for his original idea of offroad aug.
 - *Henroth* for his Aircraft loadout customisation framework.
--  *Egil Sandfeld* for his map of Bornholm fund here:http://makearmanotwar.com/entry/cSqVZaQRgQ#.VvY0sPkrKRF
+-  *Egil Sandfeld* for his map of Bornholm found here:http://makearmanotwar.com/entry/cSqVZaQRgQ#.VvY0sPkrKRF
