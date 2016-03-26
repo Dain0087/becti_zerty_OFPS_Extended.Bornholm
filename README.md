@@ -3,7 +3,6 @@ I have ported are newest version here BUT this needs a lot of work
 
 
 Benny-Edition-CTI-Zerty-OFPS-Modification
-
 Monetization
 
 This mission (or code that I own inside) cannot be used in a monetization process as defined by BiS at http://www.bistudio.com/monetization & http://www.bistudio.com/monetization/faq
@@ -17,7 +16,6 @@ Based on a work at http://forums.bistudio.com/showthread.php?166433-SP-MP-BeCTI.
 This project is not affiliated or authorized by Bohemia Interactive a.s. Bohemia Interactive, ARMA, DAYZ and all associated logos and designs are trademarks or registered trademarks of Bohemia Interactive a.s.
 
 Credits:
-
 
 Benny for the mission
 Bl1p, Fluit for random AI skill
